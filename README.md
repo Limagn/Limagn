@@ -25,7 +25,7 @@ My name is Gabriel, but I’m better known as Lima. I’m 29 years old and curre
 
 ## Frameworks
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
 <a href="https://react.dev" target="_blank" rel="noreferrer">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
