@@ -2,7 +2,7 @@
 
 Me chamo Gabriel, mais conhecido como Lima. Tenho 29 anos e atualmente estudo Sistemas de Informação na faculdade UniFOA em Volta Redonda, Rio de Janeiro. Amo programar e meu objetivo atual é me tornar um Desenvolvedor Mobile.
 
-My name is Gabriel, but I’m better known as Lima. I’m 29 years old and currently studying Information Systems at UniFOA in Volta Redonda, Rio de Janeiro. I love programming, and my current goal is to become a Mobile Developer.
+My name is Gabriel, also know as Lima. I’m 29 years old and currently studying Information Systems at UniFOA in Volta Redonda, Rio de Janeiro. I love programming, and my current goal is to become a Mobile Developer.
 
 ## Conecte-se comigo (Connect with me)
 
