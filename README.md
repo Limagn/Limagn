@@ -2,7 +2,7 @@
 
 Me chamo Gabriel, mais conhecido como Lima. Tenho 29 anos e atualmente estudo Sistemas de Informação na faculdade UniFOA em Volta Redonda, Rio de Janeiro. Amo programar e meu objetivo atual é me tornar um Desenvolvedor Mobile.
 
-My name is Gabriel, also know as Lima. I’m 29 years old and currently studying Information Systems at UniFOA in Volta Redonda, Rio de Janeiro. I love programming, and my current goal is to become a Mobile Developer.
+My name is Gabriel, also know as Lima. I’m 29 years old and currently studying Information Systems at UniFOA in Volta Redonda, Rio de Janeiro - Brazil. I love programming, and my current goal is to become a Mobile Developer.
 
 ## Conecte-se comigo (Connect with me)
 
@@ -27,8 +27,8 @@ My name is Gabriel, also know as Lima. I’m 29 years old and currently studying
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
-<a href="https://react.dev" target="_blank" rel="noreferrer">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
+<!-- <a href="https://react.dev" target="_blank" rel="noreferrer">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a> -->
+<a href="https://reactnative.dev" target="_blank" rel="noreferrer">![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
 
 ## Ferramentas (Tools)
