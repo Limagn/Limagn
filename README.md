@@ -49,6 +49,10 @@ My name is Gabriel, also know as Lima. I’m 29 years old and currently studying
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
+[![Repo DIO Estacionamento](https://github-readme-stats.vercel.app/api/pin/?username=leonardo-buta&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leonardo-buta/trilha-net-fundamentos-desafio)
+
+[![Repo DIO Batpass Generator](https://github-readme-stats.vercel.app/api/pin/?username=felipeAguiarCode&repo=react-native-bat-pass-generator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/felipeAguiarCode/react-native-bat-pass-generator)
+
 <!-- ### Meus Principais Artigos na DIO
 
 <table>
