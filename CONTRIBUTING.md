@@ -19,7 +19,8 @@ Pressione enter, e uma cópia do seu fork no GitHub será criada localmente.
 
 Utilize o comando `git checkout -b` para criar e alternar para a nova branch e nomeie-a como `feat/nome-da-branch`
 
-> Exemplo: `git checkout -b feat/nome-da-branch`
+> Exemplo:\
+> `git checkout -b feat/nome-da-branch`
 
 ### 4) Crie ou altere os arquivos.
 
@@ -27,7 +28,8 @@ Utilize o comando `git checkout -b` para criar e alternar para a nova branch e n
 
 Crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub:
 
-> Exemplo: `Limagn.md`
+> Exemplo:\
+> `Limagn.md`
 
 ### 5) Sincronize sua branch e Faça o Merge
 
@@ -54,7 +56,8 @@ Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 git commit -m "feat: add Limagn profile"
 ```
 
-> [!IMPORTANT] Verifique a [`Convenção de Commits`](https://github.com/Limagn/Limagn/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
+> [!IMPORTANT]\
+> Verifique a [`Convenção de Commits`](https://github.com/Limagn/Limagn/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) para escrever a mensagem do seu commit de forma clara e padronizada.
 
 ### 8) Envie as Alterações para o seu Repositório Remoto
 
@@ -64,11 +67,13 @@ Envie as alterações realizadas no seu repositório local para a branch `feat/n
 git push origin feat/nome-da-branch
 ```
 
-> [!WARNING] Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
+> [!WARNING]\
+> Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
 ### 9) Crie um **Pull Request**.
 
-> [!NOTE] Caso não saiba como criar uma solicitação de pull, reveja acesse a documentação do GitHub: [Como criar uma solicitação de pull](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+> [!NOTE]\
+> Caso não saiba como criar uma solicitação de pull, reveja acesse a documentação do GitHub: [Como criar uma solicitação de pull](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, algum adm irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicando que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
 
